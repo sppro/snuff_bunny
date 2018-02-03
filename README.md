@@ -25,6 +25,6 @@ of code
 
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![This is an image.](http://soulplaypro.com/assets/images/large/myAvatar_lg.png)
 
 nano README.md
