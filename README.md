@@ -26,3 +26,5 @@ of code
 Here is how you make [a link](https://www.wikipedia.org/).
 
 ![This is an image.](http://soulplaypro.com/assets/images/large/myAvatar_lg.png)
+
+nano README.md
